@@ -33,7 +33,7 @@ spec:
 
       - name: petclinic
 
-        image: 450444046629.dkr.ecr.ap-southeast-2.amazonaws.com/user17-petclinic:v6
+        image: 450444046629.dkr.ecr.ap-southeast-2.amazonaws.com/user17-petclinic:v7
 
         imagePullPolicy: Always
 
